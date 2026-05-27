@@ -4,8 +4,10 @@ license="MIT"
 
 [[mods]]
 modId="bettercombatfix"
-version="1.0"
+version="1.1"
 displayName="Better Combat Combo Fix"
 description='''
 Skips invalid Better Combat combo entries.
 '''
+[[mixins]]
+config="bettercombatfix.mixins.json"
