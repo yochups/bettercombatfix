@@ -1,0 +1,11 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="bettercombatfix"
+version="1.0"
+displayName="Better Combat Combo Fix"
+description='''
+Skips invalid Better Combat combo entries.
+'''

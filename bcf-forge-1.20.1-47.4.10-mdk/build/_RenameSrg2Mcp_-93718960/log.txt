@@ -1,0 +1,15 @@
+Java Launcher: C:\Program Files\Eclipse Adoptium\jdk-17.0.19.10-hotspot\bin\java.exe
+Arguments: '--task, SRG_TO_MCP, --input, C:\Users\nidza\.gradle\caches\modules-2\files-2.1\maven.modrinth\better-combat\1.9.0+1.20.1-forge\ea7e7247132cb3acacadd96b2b6b635c4cc63a74\better-combat-1.9.0+1.20.1-forge.jar, --output, C:\Users\nidza\.gradle\caches\forge_gradle\deobf_dependencies\maven\modrinth\better-combat\1.9.0+1.20.1-forge_mapped_official_1.20.1\better-combat-1.9.0+1.20.1-forge_mapped_official_1.20.1.jar, --mcp, C:\Users\nidza\.gradle\caches\forge_gradle\mcp_repo\net\minecraft\mapping\1.20.1\mapping-1.20.1-mapping.zip, --strip-signatures'
+Classpath:
+ - C:\Users\nidza\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\installertools\1.4.4\installertools-1.4.4-fatjar.jar
+Working directory: C:\Users\nidza\Downloads\forge-1.20.1-47.4.10-mdk\build\_RenameSrg2Mcp_-93718960
+Main class: net.minecraftforge.installertools.ConsoleTool
+====================================
+Task: SRG_TO_MCP
+Input:  C:\Users\nidza\.gradle\caches\modules-2\files-2.1\maven.modrinth\better-combat\1.9.0+1.20.1-forge\ea7e7247132cb3acacadd96b2b6b635c4cc63a74\better-combat-1.9.0+1.20.1-forge.jar
+Output: C:\Users\nidza\.gradle\caches\forge_gradle\deobf_dependencies\maven\modrinth\better-combat\1.9.0+1.20.1-forge_mapped_official_1.20.1\better-combat-1.9.0+1.20.1-forge_mapped_official_1.20.1.jar
+MCP:    C:\Users\nidza\.gradle\caches\forge_gradle\mcp_repo\net\minecraft\mapping\1.20.1\mapping-1.20.1-mapping.zip
+Loading MCP Data
+Processing ZIP file
+Stripped Manifest of sha digests
+Process complete
